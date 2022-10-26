@@ -51,7 +51,7 @@ public class PCController {
     
     private javax.swing.JButton btnExeAll;
     private ArrayList<PCB> pcbList = new ArrayList<PCB>();
-    private String algoritmoElegido ="SRT";
+    private String algoritmoElegido ="RR";
     private int keys = 0;
     
     public PCController(){
